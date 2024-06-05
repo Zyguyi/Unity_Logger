@@ -5,4 +5,4 @@ simple unity logger api, based on Debug.Logger, change the log color, write the 
 There is a menu to set the log level, Tool->set log level
 
 ## Import guideline
-Just copy these two files into your Unity project editor folder.
+Just copy these two cs files into your Unity project editor folder.
